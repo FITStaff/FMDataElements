@@ -7,7 +7,7 @@ title: Data Elements
 page: data-Elements
 ---
 
-# Federal Spending Data Elements
+# Financial Management Standard Data Elements
 
 **The lists on this page contain two types of federal spending data elements:**
 
